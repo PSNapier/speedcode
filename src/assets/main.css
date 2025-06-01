@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+.font-redacted {
+     font-family: 'Redacted Script', sans-serif;
+}
