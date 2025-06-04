@@ -2,5 +2,7 @@
 <script setup lang="ts"></script>
 
 <template>
-	<main class="">Alive without breath...</main>
+	<main class="m-2">
+		<p>Alive without breath...</p>
+	</main>
 </template>
